@@ -1,5 +1,7 @@
 Rencana Konten Iksan
 - Javascript
+  * ES6
+  * Javascript Framework
 - PHP framework
 - Boostap
 - CSS3
